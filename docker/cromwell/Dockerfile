@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:23.9.0-alpine
 
 COPY ./cromwell /app
 COPY ./nginx.conf /app/nginx.conf
