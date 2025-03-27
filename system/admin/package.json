@@ -100,7 +100,7 @@
     "json-to-graphql-query": "2.2.4",
     "middie": "7.1.0",
     "mime-types": "2.1.35",
-    "next": "13.4.4",
+    "next": "13.5.9",
     "next-transpile-modules": "^10.0.0",
     "object-assign": "4.1.1",
     "pretty-bytes": "6.0.0",
