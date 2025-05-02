@@ -27,7 +27,7 @@
     "@nestjs/common": "9.2.1",
     "@nestjs/core": "9.2.1",
     "@nestjs/graphql": "10.1.7",
-    "@nestjs/platform-fastify": "9.3.10",
+    "@nestjs/platform-fastify": "11.0.21",
     "@nestjs/swagger": "6.1.4",
     "@nestjs/throttler": "3.1.0",
     "@node-rs/bcrypt": "1.4.2",
