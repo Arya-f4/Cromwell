@@ -22,7 +22,7 @@
     "watch": "yarn cromwell b -w"
   },
   "dependencies": {
-    "@mui/material": "5.10.17",
+    "@mui/material": "7.0.0",
     "@mui/styles": "5.10.16"
   },
   "devDependencies": {
