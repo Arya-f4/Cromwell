@@ -21,7 +21,7 @@
     "format": "prettier --write --ignore-unknown \"**/*.+(js|jsx|json|css|md|ts|tsx)\""
   },
   "dependencies": {
-    "@babel/preset-env": "7.23.2",
+    "@babel/preset-env": "7.27.1",
     "@babel/preset-react": "7.14.5",
     "@cromwell/core": "3.0.1",
     "@cromwell/core-backend": "3.0.4",
