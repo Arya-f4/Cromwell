@@ -93,7 +93,7 @@
     "@emotion/server": "11.10.0",
     "@mui/icons-material": "5.10.16",
     "@mui/lab": "5.0.0-alpha.111",
-    "@mui/material": "5.10.17",
+    "@mui/material": "7.0.0",
     "@mui/styles": "5.10.16",
     "mobx": "6.3.2",
     "mobx-react": "7.2.0",
