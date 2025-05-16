@@ -29,9 +29,9 @@
   },
   "dependencies": {
     "@mui/lab": "5.0.0-alpha.111",
-    "@mui/material": "5.10.17",
+    "@mui/material": "7.0.0",
     "@mui/styles": "5.10.16",
-    "@mui/system": "5.10.17"
+    "@mui/system": "7.0.0"
   },
   "devDependencies": {
     "@nestjs/testing": "9.2.1",
