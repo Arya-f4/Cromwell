@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@mui/material": "5.10.17",
-    "@mui/styles": "5.10.16"
+    "@mui/styles": "6.4.8"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "20.0.0",
