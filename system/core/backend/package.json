@@ -32,7 +32,7 @@
     "@nestjs/throttler": "3.1.0",
     "@node-rs/bcrypt": "1.4.2",
     "bcryptjs": "2.4.3",
-    "cacache": "17.0.3",
+    "cacache": "17.0.5",
     "class-validator": "0.13.1",
     "colors": "1.4.0",
     "crypto-random-string": "3.3.0",
@@ -50,7 +50,7 @@
     "sendmail": "1.6.1",
     "tslib": "2.4.1",
     "type-graphql": "1.1.1",
-    "typeorm": "0.2.37",
+    "typeorm": "0.3.18",
     "uuid": "8.3.2",
     "winston": "3.3.3"
   },
