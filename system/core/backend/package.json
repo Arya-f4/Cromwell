@@ -50,7 +50,7 @@
     "sendmail": "1.6.1",
     "tslib": "2.4.1",
     "type-graphql": "1.1.1",
-    "typeorm": "0.2.37",
+    "typeorm": "0.3.26",
     "uuid": "8.3.2",
     "winston": "3.3.3"
   },
